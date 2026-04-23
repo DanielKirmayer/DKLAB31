@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Fun with Git")
             Text("Bingus Machine")
+            Spacer()
         }
         .padding()
     }
